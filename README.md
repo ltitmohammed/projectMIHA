@@ -13,37 +13,8 @@
             color: #333;
         }
 
-        header {
-            background-color: #4CAF50;
-            color: white;
-            text-align: center;
-            padding: 1rem 0;
-        }
-
-        h1, h2 {
-            margin: 0;
-            padding: 0.5rem;
-        }
-
-        main {
-            text-align: center;
-            padding: 2rem;
-        }
-
-        h2 {
-            color: #4CAF50;
-        }
-
-        footer {
-            text-align: center;
-            padding: 1rem 0;
-            background-color: #333;
-            color: white;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
-        }
-    </style>
+       
+ </style>
 </head>
 <body>
     <header>
